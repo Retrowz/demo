@@ -1,4 +1,4 @@
-/* Created with help from Youtube*/
+/* Created with help from Youtube & W3Schools */
 	
 
 var settings = {
